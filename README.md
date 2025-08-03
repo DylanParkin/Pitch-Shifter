@@ -6,6 +6,7 @@ jdu853
 Dylan Parkin
 dpar783
 
+For more information about this project view "MECHENG 313 A2 REPORT.pdf".
 
 Compilation and Execution Instructions for Windows and Mac OS (replace x with task number):
 ---
