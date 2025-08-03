@@ -32,6 +32,7 @@ On macOS with Homebrew:
     -I/opt/homebrew/opt/portaudio/include \
     -L/opt/homebrew/opt/portaudio/lib \
     -lportaudio -o task2.x
+
 ---
 
 Step 3: Run the Program
